@@ -10,7 +10,7 @@ Game Plan:
 >Robot will bring the firetruck to the medical building
 
 Issues:
->The followBlue function doesn't work
+>The followBlue function doesn't work (Robot Tilts while following blue and goes off of the line)
 
 ## Big Robot
 Game Plan:
@@ -23,4 +23,4 @@ Game Plan:
 >Dump the water container on the top of the building
 
 Issues:
->Camera isn't functional
+>Camera isn't functional (will be fixed by botball)

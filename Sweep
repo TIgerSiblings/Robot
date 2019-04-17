@@ -1,3 +1,7 @@
+/*
+These are the codes for the small robot
+Game Plan has been moved to the README.md file
+*/
 #include <kipr/botball.h>
 void moveForward(){
     motor(0, 100);

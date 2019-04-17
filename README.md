@@ -1,3 +1,6 @@
+# Botball Code Repository
+Contains the codes for both robots for the Tigers Siblings
+
 ## Small Robot
 Game Plan: Sweep various objects and drop the ambluance
 

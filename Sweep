@@ -141,12 +141,14 @@ void followBlue(){
     while (gmpc(0)> -5000){
         if (analog(0)>2390)
         {
-            motor(0,-50);
+            // was -50 instead of -30
+            motor(0,-30);
             motor(3,-10);
         }
         else{
             motor(0,-10);
-            motor(3,-50);
+            //was -50 instead of -30
+            motor(3,-30);
         }
         gmpc(0);
     }
